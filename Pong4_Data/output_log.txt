@@ -1,0 +1,161 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.2660]
+    Renderer: NVIDIA GeForce GTX 660
+    Vendor:   NVIDIA
+    VRAM:     1476 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+desktop: 1600x900 60Hz; virtual: 2966x900 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\j80ma_000\Documents\Unity\360Pong\Pong4_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.393765 ms
+System memory in use before: 10.0 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 106.
+Total: 0.707478 ms (FindLiveObjects: 0.006157 ms CreateObjectMapping: 0.006500 ms MarkObjects: 0.055079 ms  DeleteObjects: 0.019842 ms)
+
+UnloadTime: 0.347238 ms
+System memory in use before: 9.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 114.
+Total: 0.761188 ms (FindLiveObjects: 0.006500 ms CreateObjectMapping: 0.006157 ms MarkObjects: 0.054395 ms  DeleteObjects: 0.020526 ms)
+
+UnloadTime: 0.409844 ms
+System memory in use before: 9.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 0.702004 ms (FindLiveObjects: 0.007184 ms CreateObjectMapping: 0.006157 ms MarkObjects: 0.049263 ms  DeleteObjects: 0.013000 ms)
+
+UnloadTime: 0.450555 ms
+System memory in use before: 9.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 114.
+Total: 0.694820 ms (FindLiveObjects: 0.006157 ms CreateObjectMapping: 0.006157 ms MarkObjects: 0.053710 ms  DeleteObjects: 0.023947 ms)
+
+UnloadTime: 0.375975 ms
+System memory in use before: 9.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 0.647951 ms (FindLiveObjects: 0.006842 ms CreateObjectMapping: 0.006157 ms MarkObjects: 0.053368 ms  DeleteObjects: 0.018131 ms)
+
+UnloadTime: 0.435502 ms
+System memory in use before: 10.0 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 149.
+Total: 0.709530 ms (FindLiveObjects: 0.007184 ms CreateObjectMapping: 0.006842 ms MarkObjects: 0.064316 ms  DeleteObjects: 0.030105 ms)
+
+0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:randomDirection() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:74)
+Ball:Start() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:125)
+ 
+(Filename: C Line: 0)
+
+temp speed -0.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:makeStartingSpeed() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:60)
+Ball:Start() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:126)
+ 
+(Filename: C Line: 0)
+
+XSpeed -0.04
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Start() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:127)
+ 
+(Filename: C Line: 0)
+
+temp speed -0.04
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:makeStartingSpeed() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:60)
+Ball:Start() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:134)
+ 
+(Filename: C Line: 0)
+
+-1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Start() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:140)
+ 
+(Filename: C Line: 0)
+
+0Backgorund
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Background:Start() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Background\Background.cs:14)
+ 
+(Filename: C Line: 0)
+
+temp speed 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:makeStartingSpeed() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:60)
+Ball:startMoving() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:85)
+Ball:Update() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:171)
+ 
+(Filename: C Line: 0)
+
+XSpeed 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:startMoving() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:86)
+Ball:Update() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:171)
+ 
+(Filename: C Line: 0)
+
+temp speed 0.01
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:makeStartingSpeed() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:60)
+Ball:startMoving() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:90)
+Ball:Update() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:171)
+ 
+(Filename: C Line: 0)
+
+Yspeed 0.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:startMoving() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:95)
+Ball:Update() (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Ball.cs:171)
+ 
+(Filename: C Line: 0)
+
+hit ball
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Paddle:OnCollisionEnter(Collision) (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Paddle.cs:222)
+ 
+(Filename: C Line: 0)
+
+hit ball
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Paddle:OnCollisionEnter(Collision) (at C:\Users\j80ma_000\Documents\Unity\360Pong\Assets\Scripts\Paddle.cs:222)
+ 
+(Filename: C Line: 0)
+
